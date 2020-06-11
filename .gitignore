@@ -338,3 +338,11 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# Text files for development purposes
+*.txt
+/RepeatedWords
+/Text.o
+/RepeatedWords.vcxproj.filters
+/RepeatedWords.vcxproj
+/RepeatedWords.sln
